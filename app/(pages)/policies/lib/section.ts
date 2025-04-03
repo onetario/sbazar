@@ -8,7 +8,7 @@ export interface Section {
 export const sections: Section[] = [
   {
     id: 1,
-    title: "Privacy Policies",
+    title: "Privacy Policy",
     slug: "privacy-policy",
     content: `## 1. Introduction: Safeguarding Your Trust
 
@@ -321,7 +321,7 @@ Snext's **Data Security & Protection Policy** ensures diaspora members can confi
   },
   {
     id: 4,
-    title: "Payment Policies",
+    title: "Payment Policy",
     slug: "payment-policy",
     content: `
 ## 1. Introduction: Secure & Hassle-Free Payments
@@ -410,8 +410,8 @@ By partnering with **Mollie**, offering multiple payment routes, and ensuring se
   },
   {
     id: 5,
-    title: "Return Policies",
-    slug: "return-policies",
+    title: "Return Policy",
+    slug: "return-policy",
     content: `
 ## 1. Introduction: A Pledge to Customer Satisfaction
 
@@ -639,7 +639,7 @@ For inquiries, clarifications, or assistance, reach out to **support@snext.app**
   },
   {
     id: 7,
-    title: "Shipping Policies",
+    title: "Shipping Policy",
     slug: "shipping-policy",
     content: `
 
@@ -775,7 +775,7 @@ For any shipping questions, clarifications, or region eligibility concerns:
   },
   {
     id: 8,
-    title: "T&Cs",
+    title: "Terms & Conditions",
     slug: "terms-and-conditions",
     content: `
 
@@ -851,7 +851,7 @@ We appreciate your presence in this diaspora-oriented platform. By adhering to t
   },
   {
     id: 9,
-    title: "Pricing Policies",
+    title: "Pricing Policy",
     slug: "pricing-policy",
     content: `
 
@@ -926,64 +926,7 @@ With Snext, each purchase is a promise of integrity, savings, and cultural pride
   },
   {
     id: 10,
-    title: "Careers",
-    slug: "careers",
-    content: `
-
-## 1. Introduction: Join Our Journey
-### 1.1 Beyond a Marketplace
-At Snext, we're more than a digital store. We are a movement guided by ambition, tradition, and the bond that unites diaspora communities worldwide. Each day, we strive to blend innovation with cultural authenticity—and this synergy fuels our ongoing success. By choosing to explore a career with Snext, you're stepping into a realm where your entrepreneurial spirit, creative flair, or technical prowess can shape the future of online shopping.
-
-### 1.2 Why Snext?
-Our story extends beyond Germany's borders, bridging cultural gaps and igniting local entrepreneurship. At the heart of it all is a passion for delivering a piece of "home" to diaspora users, using cutting-edge e-commerce solutions. We believe in building a community that merges tradition with technology—and you could be the next pivotal contributor to that vision.
-
-## 2. Founding Philosophy
-### 2.1 Roots in Tradition, Eyes on Tomorrow
-Snext foundation rests on core beliefs that inform each decision:
-- **Cultural Preservation:** Honoring heritage with Indian groceries, festival kits, and localized services.
-- **Innovation for Impact:** Using AI, user-driven design, and next-day deliveries for unmatched convenience.
-
-### 2.2 Milestones & Evolution
-From a bold idea in 2020 to a platform bridging groceries, events, and AI-backed customer support, Snext continually evolves. Each milestone—be it technology breakthroughs or financial turning points—showcases our adaptability and unwavering community focus.
-
-## 3. Visionary Leadership & Impact Stories
-### 3.1 Leadership with Purpose
-Led by Saravanan and a team of creative minds, data wizards, and diaspora enthusiasts, Snext growth is fueled by a deep reverence for user needs and social empowerment.
-
-### 3.2 Real-World Transformation
-Diaspora families enjoy fresh groceries and cultural events, local artisans gain global recognition, and small businesses access new markets—thanks to every Snext role, from developers to interns.
-
-## 4. Current Openings
-### 4.1 Open Invitation
-Though specific vacancies may not be listed, Snext scouts for:
-- **Tech Innovation:** Shaping a next-gen diaspora platform.
-- **Cultural Bridge-Building:** Merging tradition and technology.
-- **Community Engagement:** Empowering local entrepreneurs and communities.
-
-### 4.2 Flexible Opportunities
-We offer part-time, full-time, remote, or freelance roles tailored to your skills and our mission.
-
-### 4.3 How to Apply
-Contact us at careers@snext.app with:
-- Your CV or Resume
-- A short introduction about your background, skills, and diaspora connection (if any)
-- A note on how you see yourself contributing to Snext
-
-## 5. Aligning with Our Core Values
-### 5.1 Innovation, Community, Sustainability
-Our best hires merge tradition and technology, embodying our ethos of bridging diaspora life with ethical, future-focused e-commerce.
-
-### 5.2 Next Steps
-Reach out now, expressing how we can thrive together. We maintain an active talent pool, reviewing potential matches as soon as roles become available.
-
-## 6. Conclusion: A Shared Adventure
-Join Snext's journey to empower diaspora lifestyles, support local entrepreneurs, and shape a more connected world. Be it groceries, community modules, or AI innovations, your impact will resonate across diaspora communities.
-
-`,
-  },
-  {
-    id: 11,
-    title: "Cancel Policies",
+    title: "Cancellation Policy",
     slug: "cancellation-policy",
     content: `
 ## 1. Introduction: A User-Centric Approach
@@ -1040,7 +983,7 @@ By distinguishing each stage of order processing, SBazar ensures users can cance
     `,
   },
   {
-    id: 12,
+    id: 11,
     title: "Brand Endorsement",
     slug: "brand-endorsement",
     content: `
@@ -1144,8 +1087,8 @@ Endorsed brands enrich the diaspora experience with authentic products that prio
 SBazar's **Brand Endorsement Policy** underscores our pursuit of genuine alliances. By choosing SBazar-endorsed products, the diaspora invests in a flourishing marketplace that transcends borders and fosters deeper cultural connections.`,
   },
   {
-    id: 13,
-    title: "User Account Policy",
+    id: 12,
+    title: "User Account & Security Policy",
     slug: "user-account-policy",
     content: `
 ## 1. Introduction: Tailoring & Safeguarding Your SBazar Experience
@@ -1238,7 +1181,7 @@ In hosting a User Account & Security Policy, SBazar ensures diaspora families, s
 `,
   },
   {
-    id: 14,
+    id: 13,
     title: "Intellectual Property Policy",
     slug: "intellectual-property-policy",
     content: `
